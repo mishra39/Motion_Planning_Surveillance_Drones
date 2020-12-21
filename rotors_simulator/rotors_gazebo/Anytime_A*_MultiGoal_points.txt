@@ -1,0 +1,6 @@
+Obstacle Course 2: Multi-Goal Points
+Start: 0,0,1
+Goal: {5,0,1}, {10,-5,5}, {15,7,4}, {5,7,7};
+
+Corrdior: 
+
